@@ -15,10 +15,10 @@ uv pip install -e .
 To run the main application, execute the following command:
 
 ```
-python -m pymu.main
+
 ```
 
-## Directory Structure
+## Directory Structure  # TODO
 ```
 pymu/
 ├── pymu/
@@ -26,8 +26,8 @@ pymu/
 │   ├── main.py
 │   └── utils.py
 ├── tests/
-│   ├── __init__.py
-│   └── test_main.py
+│   ├── TODO
+│   └── TODO
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
@@ -38,4 +38,4 @@ pymu/
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.  # TODO
